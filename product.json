@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/Kj1cxDq/1.jpg",
+        "name": "royel & filed",
+        "price": 1700000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/SKLCT2Y/13.jpg",
+        "name": "Kawasaki Ninja",
+        "price": 1500000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/XbXk8Qp/12.jpg",
+        "name": "Kawasaki Ninja H2R",
+        "price": 1300000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/D7j0PjP/11.jpg",
+        "name": "KTM RC 390",
+        "price": 1100000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/7R7bz1C/10.jpg",
+        "name": "KTM RC 125",
+        "price": 800000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/ZzJBxq0/9.jpg",
+        "name": " BMW S1000RR",
+        "price": 500000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/dW6rVbb/8.jpg",
+        "name": "DUCATI",
+        "price": 400000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had \tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/nCdxP3w/7.jpg",
+        "name": "Aprilia",
+        "price": 300000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/Hh6nJXM/6.jpg",
+        "name": "KTM(Austria)",
+        "price": 200000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/dPwPWR7/5.jpg",
+        "name": "KTM 200 Duke",
+        "price": 100000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/N69nHSV/4.jpg",
+        "name": "yamaha YZF",
+        "price": 800000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had tmanufactured. Enfield Cycle Company also used the brand name"
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/2gCPSvc/3.jpg",
+        "name": "yamaha v3 bh4",
+        "price": 2000000,
+        "desc": "Royal Enfield was a brand name under which The Enfield Cycle Company Limited of Redditch, \tWorcestershire[1] sold motorcycles, bicycles, lawnmowers and stationary engines which they had tmanufactured. Enfield Cycle Company also used the brand name"
+    }
+]
